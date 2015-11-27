@@ -1,2 +1,2 @@
-# json-rpc-client
-JSON-RPC 2.0 Client
+# JSON-RPC 2.0 Client
+
