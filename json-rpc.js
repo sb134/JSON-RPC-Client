@@ -19,7 +19,6 @@ JSON_RPC = {
 	* @param {string} method A name of a procedure to be invoked.
 	* @param {(array|object)} [params]
 	* @param {boolean} [isNotification] If set to true, the method will send a notification
-	* @return {string} A JSON-RPC Request
 	*/
 	call: function(url, method, params, isNotification){
 		// JSON-RPC string
